@@ -3,7 +3,7 @@ name: run MedalHelper
 on:
     workflow_dispatch:
     schedule:
-        - cron: "05 19 * * *"
+        - cron: "04 19 * * *"
 
 jobs:
     MedalHelper:
